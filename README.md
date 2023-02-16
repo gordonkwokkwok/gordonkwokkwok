@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gordon Kwok
 - 👀 I’m interested in Web 3.0 | NFT | Metaverse | Artificial Intelligence (AI) | Machine Learning | Task Automation
-- 🌱 I’m currently learning Python, SQL, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, SQL, HTML, CSS, JavaScript, React.js, Django
 - 📫 How to reach me ...https://www.linkedin.com/in/gordonkwokch/
 
 <!---
