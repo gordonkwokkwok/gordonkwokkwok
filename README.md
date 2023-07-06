@@ -11,12 +11,7 @@
 
 
 <h2 align="left">🤓 My values</h2>
-- Accountability
-- Time management
-- Continuous learning
-- Problem-solving
-- Growth Mindset
-- Decision-making
+Accountability, Time management, Continuous learning, Problem-solving, Growth Mindset, Decision-making
 
 <h2 align="left">🔗 Get in touch</h2>
 <p align="left">
