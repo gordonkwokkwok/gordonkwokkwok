@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at **[Portfolio](http://gordonkwokch.com/)**
 
-- 📫 How to reach me **[Portfolio](https://www.linkedin.com/in/gordonkwokch/)**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/gordonkwokch/)**
 
 
 <h2 align="left">🤓 My values</h2>
