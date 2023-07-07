@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web 3.0 | NFT | Metaverse | Artificial Intelligence (AI) | Machine Learning**
 
-- 👨‍💻 All of my projects are available at **[Portfolio](http://gordonkwokch.com/)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://gordonkwokch.com/)**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/gordonkwokch/)**
 
