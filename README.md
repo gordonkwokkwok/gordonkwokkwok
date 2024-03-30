@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gordon Kwok</h1>
-<h3 align="center">A Passionate FullStack Developer in Canada</h3>
+<h3 align="center">A Passionate Data Specialist in Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gordonkwokkwok&label=Profile%20views&color=0e75b6&style=flat" alt="gordonkwokkwok" /> </p>
 
